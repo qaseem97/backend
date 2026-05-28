@@ -1,12 +1,1 @@
 
-need these
-
-fastapi
-uvicorn
-onnxruntime
-pandas
-numpy
-openpyxl
-python-multipart
-
-# pip install fastapi uvicorn onnxruntime pandas numpy openpyxl python-multipart
